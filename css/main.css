@@ -1,0 +1,20 @@
+body {
+    background-color: dimgray;
+}
+
+h1 {
+    color: whitesmoke;
+}
+
+p {
+    font-weight: bold;
+}
+
+li {
+    margin: 10px 0;
+}
+
+a {
+    color: floralwhite;
+    text-decoration: none;
+}
